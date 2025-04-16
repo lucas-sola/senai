@@ -1,0 +1,63 @@
+FILME DO ALLAN TURING - O jogos de imitação
+
+- O primeiro trecho do filme se passa em 1951, Manchester, na Inglaterra. O protagonista inicialmente como  um "professor maluco", mas também trabalha fazendo máquinas, principalmente com um projeto de uma máquina que poderia ser usada pra codificação e decodificação. 
+
+Policiais vão investigar um caso de invasão domiciliar na casa de Alan, o protagonista resiste e fala para arquivar o caso, depois disso, os policiais acham que ele está escondendo algo. 
+
+O filme mostra na visão de Allan que a guerra iria começar, a não ser que a Alemanha fizesse um pronunciamento até as 11 horas daquele dia. 
+
+(neste ano, ele trabalhava numa fábrica de rádios, era um prodígio na área de matemática, ele buscou o trabalho no ramo militar pois era um trabalho super secreto, porém ele parece ser rejeitado até falar o nome da máquina alemã "Enigma".). 
+
+Um líder amigo dele desde então decidiu juntar vários gênios prodígios para tentar decifrar a máquina. 
+
+Tudo o que a Alemanha iria fazer era enviado através desta máquina, que era recodificada  todos os dias às 00:00, não era atoa que era a máquina mais complexa de codificação. 
+
+Na teoria, demorariam 20 milhões de anos para decodificar todas as possibilidades de um único código. (150 milhoes de milhoes de possibilidades). 
+
+Allan não se dava bem com seus colegas, pois era um "gênio introvertido", por isso passava grande parte do seu dia isolado trabalhando na máquina que seria capaz de acabar com o problema da decodificação do Enigma. 
+
+Novamente em 1951, Allan turing sugere ao líder que ele financie a máquina dele, que necessitaria 100 mil euros para ser construida. Depois disso, Turing é colocado no comando e logo de cara já demite seus aliados, para ele trabalhar melhor e sem problemas financeiros ou sociais.
+
+É revelado que turing sofria bullying na escola por ser diferente e genial, diferentemente de seus colegas que eram na média ou abaixo disso.
+
+Para procurar aliados no desafio, Turing decide criar um caça palavras para qualificar alguém. Neste desafio, a pessoa tem 6 minutos para conseguir fazer algumas cruzadas
+
+Uma mulher "aleatória" e um homem ja conhecido genialmente são qualificados no teste e logo então, Turing conta o objetivo ultra secreto que ele está em busca a anos.
+
+Algumas pessoas do exército pensam que Turing é um espião do exército soviético, e buscam investiga-lo
+
+Os estados unidos estava quase na ruína, pois os alimentos que seriam entregues ao país eram bombardiados antes de chegarem lá, então o país não tinha mais acesso ao alimento e estavam fadados à derrota.
+
+Os aliados da equipe de Turing reclamam de seu egocentrismo, pois eles foram contratados para nada, pois não produziam anda mediante dias e dias seguidos, por conta dele.
+
+O líder do exército aparece para investigar Turing
+
+As autoridades questionam a funcionalidade da máquina, e dão um mês para a maquina funcionar, depois disso, seriam demitidos
+
+Turing decide se casar com Elizabeth Clark para ela não ter que ir embora com sua família. Com isso, autoridades e amigos descobrem que ele é homossexual.
+
+O segundo teste da máquina dá errado e cria o "teste da imitação", que verifica se a máquina pode agir como o comportamento humano.
+
+Turing descobre de maneira inusitada uma maneira de aprimorar a máquina, com ela verificando as palavras mais comumente utilizadas nas mensagens, como o clima e "hi hitler?" 
+
+Depois de decifrar a máquina, é necessário mante-la em segredo para poder agir de uma maneira mais útil, falando de maneira militar.
+
+Allan conta que venceu a Enigma para uma pessoa específica do exército, e começa a operação mais secreta da humanidade ate o momento.
+
+Turing descobre que um de seus aliados é um espião soviético, e o ameaça para caso Turing conte para alguém, ele também contara o segredo sobre a homossexualidade para todos.
+
+O militar "descobre" que este aliado de turing é um espião, porém revela que ele já sabia antes mesmo de coloca-lo no projeto.
+
+Turing conta para Clarke que é homossexual, e a encoraja a ir embora, porém ela se recusa, e fala que quer ficar com ele independentemente disso
+
+Após algum tempo, a alemanha é finalmente derrotada, e então, tudo o que eles ja fizeram têm de ser queimado. pois eles são os únicos que sabiam como decriptografar uma máquina que era "invencível".
+
+Turing é descoberto como homossexual e tem a opção de ficar preso ou ser tratado, com castração química e tratamento hormonal; ele escolheu o tratamento.
+
+Clarke vai para a casa de Turing para ver como ele está. Turing se encontra depressivo, com olheiras e tristeza profunda, e perguntando-se por que ele não é normal como os outros? Clarke responde que tudo o que ainda há em seu país só existe por conta de Allan, então ela preferia que ele fosse anormal do jeito que é. Obs: Clarke agora encontrou um marido, está trabalhando cientificamente, e vive uma vida normal.
+
+Turing cometeu suicídio em 7 de junho de 1954. em agosto de 2014, ele foi perdoado póstumamente pela rainha Elizabeth II.
+
+**
+A importância das descobertas de Allan Turing é vital para a computação depois de sua época, já que esta máquina foi o estopim para o avanço computacional e tecnológico. Turing era realmente um gênio, visto que ele literalmente criou a decodificação necessária para o início das verdadeiras tecnologias. A máquina enigma fazia choques quando o teclado era tocado, então esses choques eram embaralhados por uma espécie de roda dentro da máquina para embaralha-los quando fossem sair, então com a configuração correta, era possível decifra-lá. Turing fez a máquina Bombe, que combinava as letras de cada tambor dentro da enigma com as mensagens obtidas em três letras. Além disso, Turing fez as primeiras "invenções" da IA.
+**

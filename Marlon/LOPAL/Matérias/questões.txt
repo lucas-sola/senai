@@ -1,0 +1,12 @@
+crie um programa que pergunte a temperatura de um dia e informe se o clima está quente, ameno ou frio
+
+>30 = quente
+entre 20 e 30 = ameno
+<20 = frio
+
+
+02- crie um programa que classifique a nota do aluno com base em um sistema de notas
+notas - >9 = A
+>7 <9 = B
+>5 <7 = C
+<5 - D
