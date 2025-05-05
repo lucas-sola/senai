@@ -1,0 +1,20 @@
+5 - Você quer que eu faça um código editável futuramente? sim
+4 - Você quer uma parte específica de Merchant? (divulgação) sim
+1- Caso seja bebidas +18, você quer que seja PROIBIDO a entrada de meno res no site? não, liberado para menores
+11 - Terá opção de delivery? sim
+6 - Qual sua prioridade para o site? qualidade ou desempenho? um pouco de dois, mas mais focado em qualidade
+7 - Você quer usuário de ADM e Cliente ou o mesmo usuário para os dois? diferentes
+8 - Quem será o fornecedor? embalagens
+9 - Como será disponibilizado o estoque? opção mostrando como o estoque esta (disponivel, a caminho, indisponivel)
+10 - Terá opção de adicionais? (por exemplo, em um copo de bebida, adicionar gelo/limão, etc..) não 
+2 - Qual o método de divulgação? Futuramente instagram
+12 - Vocês tem algum método de comunicação física? por exemplo, um galpão (??) Se não, qual método de comunicação você usa digitalmente? 
+13 - Terá uma página da história da empresa? x
+14 - Qual o prazo que você pretende nos mandar? até junho a primeira versão 
+15 - Você quer que seja um estilo mais clássico / rústico ou um mais moderno? um pouco de natureza x sportlife
+17 - Opção de acessibilidade? sim 
+18 - Orçamento? 7000
+19 - Você pretende que quando clique em um link (seja de finalizar compra ou qualquer outra variação), redirecione na mesma página ou abra outra? redirecionamento
+20 - Pretende que haja uma página de promoções? x
+21 - Qual o piso de lucro que você pretende ter? x
+22 - Quer uma página sobre o suporte? (por exemplo, tickets ou suporte diret o) x
